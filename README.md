@@ -4,6 +4,7 @@
 -  I’m currently working as Business Analyst/ Product Manager, as a frontend developer I also create UI using react.js, reactstrap and CSS.
 -  I’m currently learning Full stack web development.
 -  I’m looking to collaborate on different project and use my skills to wire frame, prototype ideas manage and execute projects.
--  How to reach me: https://www.linkedin.com/in/sameer-sanjeevi-999nine/ (my linked in)
+-  My porrtfolio : https://isameersanjeewe.github.io/SameerSanjeeviWebsite/ 
+-  How to reach me: https://www.linkedin.com/in/sameersanjeevi/ (my linked in)
 -  Fun fact: I am a professional BeatBoxer. I am team player.
 
